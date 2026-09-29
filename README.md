@@ -19,9 +19,9 @@ El análisis exploratorio de datos (EDA) inicial se encuentra en el notebook
 
 ## Aplicación desplegada
 
-🔗 **[Abrir la aplicación en Render](https://<APP_NAME>.onrender.com)**
+🔗 **[Abrir la aplicación en Render](https://vehicles-dashboard-0o3t.onrender.com)**
 
-*(Actualiza este enlace con la URL real una vez que despliegues tu app en Render)*
+
 
 ## Cómo ejecutar el proyecto localmente
 
